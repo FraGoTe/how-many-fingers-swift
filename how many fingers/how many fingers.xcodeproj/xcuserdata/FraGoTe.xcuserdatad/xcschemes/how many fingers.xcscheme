@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E313524F1BDAFE3C003D12FA"
+               BlueprintIdentifier = "E313526D1BDAFFFC003D12FA"
                BuildableName = "how many fingers.app"
                BlueprintName = "how many fingers"
                ReferencedContainer = "container:how many fingers.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E313524F1BDAFE3C003D12FA"
+            BlueprintIdentifier = "E313526D1BDAFFFC003D12FA"
             BuildableName = "how many fingers.app"
             BlueprintName = "how many fingers"
             ReferencedContainer = "container:how many fingers.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E313524F1BDAFE3C003D12FA"
+            BlueprintIdentifier = "E313526D1BDAFFFC003D12FA"
             BuildableName = "how many fingers.app"
             BlueprintName = "how many fingers"
             ReferencedContainer = "container:how many fingers.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E313524F1BDAFE3C003D12FA"
+            BlueprintIdentifier = "E313526D1BDAFFFC003D12FA"
             BuildableName = "how many fingers.app"
             BlueprintName = "how many fingers"
             ReferencedContainer = "container:how many fingers.xcodeproj">
